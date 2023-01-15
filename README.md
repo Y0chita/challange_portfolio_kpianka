@@ -5,3 +5,4 @@
  <h2> Subtask 4
   <h5> 1.Do czego służy ta aplikacja?
  <h6> Aplikacja służy do dodawania graczy piłki nożnej, meczy jak i raportów z meczy które póżniej mogą być wykorzystane do sprawdzania wyników graczy i wyszukiwanie talentów.
+  <h5> 2.Jakie funkcjonalności znajdują się w aplikacji>
