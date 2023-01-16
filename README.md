@@ -2,7 +2,7 @@
  <h2> Subtask 1
  <h6> 5 punktów! mogłobyć lepiej ale starałem się robić zadania czysto z pamięci(nigdy nie byłem dobry z teorii ; P)
  <h2> Subtask 3
- <h6> Cześć nazywam się Kacper. Wziąłem udziął w tym projekcie ponieważ chciałem zobaczyć jak wygląda praca testera manualnego i nauczyć się jak nim być. Jestem osobą która studiuje informatyke i w przyszłości prawdopodobnie być programistą jednak chce zacząć jak i również poznać też inne prace związane z informatyką i chętnie pouczę się nowych rzeczy.
+ <h6> Cześć nazywam się Kacper. Wziąłem udziął w tym projekcie ponieważ chciałem zobaczyć jak wygląda praca testera manualnego i nauczyć się jak nim być. Jestem osobą która studiuje informatyke i w przyszłości chcę prawdopodobnie być programistą jednak chce zacząć jak i również poznać też inne prace związane z informatyką i chętnie pouczę się nowych rzeczy.
  <h2> Subtask 4
   <h4> 1.Do czego służy ta aplikacja?
  <h6> Aplikacja służy do dodawania graczy piłki nożnej, meczy jak i raportów z meczy które póżniej mogą być wykorzystane do sprawdzania wyników graczy i wyszukiwanie talentów.
