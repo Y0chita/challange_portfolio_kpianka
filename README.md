@@ -5,7 +5,7 @@
  <h2> Subtask 4
   <h4> 1.Do czego służy ta aplikacja?
  <h6> Aplikacja służy do dodawania graczy piłki nożnej, meczy jak i raportów z meczy które póżniej mogą być wykorzystane do sprawdzania wyników graczy i wyszukiwanie talentów.
-  <h4> 2.Jakie funkcjonalności znajdują się w aplikacji?
+  <h4> 2.Jakie funkcjonalności znajdują się w aplikacji? I jakie błędy znajdują się w nich?
   <h4> Pierwszą funkcjonalnością jest dodawanie graczy piłki nożnej
    Same menu jest przejrzyste i przyjemne do nawigowania jednakże mam tu parę blędów i uwag
    <h6> - waga i wzrost mogą przyjmować negatywne wartości
