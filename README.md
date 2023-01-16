@@ -23,5 +23,7 @@
   <h4>  Kolejna fukncjonalnoscia jest tabela graczy w którą możne przejść przez przycisk pod stroną główną
   <h6>  - Podstawowo w tabeli nie widać żadnego sortowania danych, i nawet niema opcji sortowania według specyficznych danych jedynie jest możliwość filtrowania
   <h6>  - Podczas filtrowania - jeśli w wartości wieku wpiszemy np. min 10 i max 20 wyszuka tylko wartości od 10 do 19, pominie wyniki z wartością równą maksymalnej.
-  <h6>  - 
+  <h6>  - W momencie kiedy wartość w tabeli jest zbyt długa np ma 200 znaków, tabela się rozszerza i staje się zupełnie nieczytelna i nie mieści się w przeglądarce.
+        tabela powinna mieć jedną wielkość i kiedy jakaś wartość jest za długa powinien się pojawić na końcu "..." .
+  <h6>  - kiedy się wchodzi do gracza w tabeli od razu jest możliwość edycji wartości, na początku powinno nas przenosić do trybu "podglądu".
    
