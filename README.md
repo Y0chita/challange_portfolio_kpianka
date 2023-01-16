@@ -26,3 +26,5 @@
   <h6>  - W momencie kiedy wartość w tabeli jest zbyt długa np ma 200 znaków, tabela się rozszerza i staje się zupełnie nieczytelna i nie mieści się w przeglądarce.
         tabela powinna mieć jedną wielkość i kiedy jakaś wartość jest za długa powinien się pojawić na końcu "..." .
   <h6>  - kiedy się wchodzi do gracza w tabeli od razu jest możliwość edycji wartości, na początku powinno nas przenosić do trybu "podglądu". Nie wiem czy zreszta               funkcja edycji innych graczy powinna byc dostepna do osob ktore sa na innym koncie niz autor.
+![image](https://user-images.githubusercontent.com/122675399/212695046-420899b3-dbe3-48cd-9623-582f654f6aeb.png)
+
