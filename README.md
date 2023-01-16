@@ -8,7 +8,7 @@
   <h5> 2.Jakie funkcjonalności znajdują się w aplikacji?
   <h6> Pierwszą funkcjonalnością jest dodawanie graczy piłki nożnej
    Same menu jest przejrzyste i przyjemne do nawigowania jednakże mam tu parę blędów i uwag
-   - waga i wzrost mogą przyjmować negatywne wartości
-   - osiągnięcia powinny być boksem w którym można widzieć cały tekst i wyadjustować według potrzeb
-   - w momencie kiedy poda się email i ten email nie jest w formacie xxx@xx.xx nie można stworzyć profilu jednakże strona informuje tylko że wystąpił błąd nie              wyjaśniając czemu on nastąpił a więc jeśli ktoś przypadkowo źle wpisał email może główkować długi czas co jest problemem.
-   - same 
+   <h6> - waga i wzrost mogą przyjmować negatywne wartości
+   <h6> - osiągnięcia powinny być boksem w którym można widzieć cały tekst i wyadjustować według potrzeb
+   <h6> - w momencie kiedy poda się email i ten email nie jest w formacie xxx@xx.xx nie można stworzyć profilu jednakże strona informuje tylko że wystąpił błąd nie               wyjaśniając czemu on nastąpił a więc jeśli ktoś przypadkowo źle wpisał email może główkować długi czas co jest problemem.
+   <h6> - same 
