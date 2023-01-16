@@ -26,5 +26,7 @@
   <h6>  - W momencie kiedy wartość w tabeli jest zbyt długa np ma 200 znaków, tabela się rozszerza i staje się zupełnie nieczytelna i nie mieści się w przeglądarce.
         tabela powinna mieć jedną wielkość i kiedy jakaś wartość jest za długa powinien się pojawić na końcu "..." .
   <h6>  - kiedy się wchodzi do gracza w tabeli od razu jest możliwość edycji wartości, na początku powinno nas przenosić do trybu "podglądu". Nie wiem czy zreszta               funkcja edycji innych graczy powinna byc dostepna do osob ktore sa na innym koncie niz autor.
-![image](https://user-images.githubusercontent.com/122675399/212695046-420899b3-dbe3-48cd-9623-582f654f6aeb.png)
-
+ <h4> 3. Intuicyjność i wygląd aplikacji
+ <h6> Co do wyglądu strony nie mam nic do zarzucenia, jest ma bardzo prosty wygląd co pomaga w czytelności. Oczywiście mógłby się znaleźć gdzieś switch do zmienienia na darkmode gdyż darkmode jest coraz bardziej oczekiwaną funkcją na każdej ze stron.
+Co do intuicyjności, sam boks zawierający aktywność na głównej stronie mógłby mieć jakiś znak czy linie oddzielającą ostatnio stworzonych/zaktualizowanych graczy, z początku nie wiadomo czy hyperlink przenosi do informacji znajdującej się nad czy pod nim.
+<h6> W momencie tworzenia gracza powinno nas przenieść do strony pokazującej etapy tworzenia( strona mogłoby sprawdzać czy te ip już odwiedziło strone i jeśli nie to pokazać tą instrukcję a jeśli tak to przeniosłoby od razu do tworzenia) np że 1. tworzymy gracza -> tworzymy mecz -> tworzymy raport do meczu. tak użytkownik jest rzucony na głęboką wode i musi sam odkrywać funkcjonalności strony przy okazji tworzenia gracza.
