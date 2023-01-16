@@ -12,4 +12,11 @@
    <h6> - osiągnięcia powinny być boksem w którym można widzieć cały tekst i wyadjustować według potrzeb
    <h6> - w momencie kiedy poda się email i ten email nie jest w formacie xxx@xx.xx nie można stworzyć profilu jednakże strona informuje tylko że wystąpił błąd nie                 wyjaśniając czemu on nastąpił a więc jeśli ktoś przypadkowo źle wpisał email może główkować długi czas co jest problemem. Tak samo gdy sie przekroczy liczbe             czterocyfrową w dacie urodzenia
    <h6> - Pola prawdopodobnie powinny mieć założone limity znaków dostosowane do potrzeb danego pola, pomogło by to też z późniejszym problemem za dużej ilości znaków w           tabeli wyszukiwań.
-  <h6> Drugą funkcjonalnością jest dodawanie 
+  <h6> Drugą funkcjonalnością ktora pojawia się po dodaniu gracza jest dodanie meczów i raportów z tych meczy
+  <h6>  - Problem z datą też się tu pojawia
+  <h6>  - Czas gry może być ujemny
+  <h6>  Po stworzeniu meczu można rozpocząc mecz i stworzyc raport do niego zacznijmy od funkcji rozpoczecia meczu
+  <h6>  - sama funkcja nie wyjasnia ci zadnej z funkcjonalnści, przydałby się przycisk z literką ,,i" po informacje jak użytkuje się z tego
+  <h6>  - kiedy wystartuje się program i zacznie sie dodawać akcje które wykonują się podczas meczu, czas się nie zatrzymuje co uniemożliwia dokladnego dodania  pozycji           graczy i ich akcji
+  <h6>  -
+   
