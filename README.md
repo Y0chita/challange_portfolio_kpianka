@@ -17,6 +17,11 @@
   <h6>  - Czas gry może być ujemny
   <h6>  Po stworzeniu meczu można rozpocząc mecz i stworzyc raport do niego zacznijmy od funkcji rozpoczecia meczu
   <h6>  - sama funkcja nie wyjasnia ci zadnej z funkcjonalnści, przydałby się przycisk z literką ,,i" po informacje jak użytkuje się z tego
-  <h6>  - kiedy wystartuje się program i zacznie sie dodawać akcje które wykonują się podczas meczu, czas się nie zatrzymuje co uniemożliwia dokladnego dodania  pozycji           graczy i ich akcji
-  <h6>  -
+  <h6>  - kiedy wystartuje się program i zacznie sie dodawać akcje które wykonują się podczas meczu, czas się nie zatrzymuje
+  <h6>  Tworzenie raportu
+  <h6>  - w raporcie kiedy chce się stworzyć liste tworzy się tylko pierwsza liczba/znak, po wcisnieciu enter lista się nie kontynuuje.
+  <h6>  Kolejna fukncjonalnoscia jest tabela graczy w którą możne przejść przez przycisk pod stroną główną
+  <h6>  - Podstawowo w tabeli nie widać żadnego sortowania danych, i nawet niema opcji sortowania według specyficznych danych jedynie jest możliwość filtrowania
+  <h6>  - Podczas filtrowania - jeśli w wartości wieku wpiszemy np. min 10 i max 20 wyszuka tylko wartości od 10 do 19, pominie wyniki z wartością równą maksymalnej.
+  <h6>  - 
    
