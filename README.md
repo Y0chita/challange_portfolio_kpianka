@@ -19,6 +19,7 @@
   <h4>  Po stworzeniu meczu można rozpocząc mecz i stworzyc raport do niego zacznijmy od funkcji rozpoczecia meczu
   <h6>  - sama funkcja nie wyjasnia ci zadnej z funkcjonalnści, przydałby się przycisk z literką ,,i" po informacje jak użytkuje się z tego
   <h6>  - kiedy wystartuje się program i zacznie sie dodawać akcje które wykonują się podczas meczu, czas się nie zatrzymuje
+  <h4>  Kiedy przerwiesz tworzenie meczu na stronie głównej pojawi się boks ,,Niezapisany mecz" z linkiem który umożliwia do wrócenia do raportu jednakże link nie  działa
   <h4>  Tworzenie raportu
   <h6>  - w raporcie kiedy chce się stworzyć liste tworzy się tylko pierwsza liczba/znak, po wcisnieciu enter lista się nie kontynuuje.
   <h4>  Kolejna fukncjonalnoscia jest tabela graczy w którą możne przejść przez przycisk pod stroną główną
