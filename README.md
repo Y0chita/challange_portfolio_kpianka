@@ -33,3 +33,5 @@
  <h6> Co do intuicyjności, sam boks zawierający aktywność na głównej stronie mógłby mieć jakiś znak czy linie oddzielającą ostatnio stworzonych/zaktualizowanych graczy, z początku nie wiadomo czy hyperlink przenosi do informacji znajdującej się nad czy pod nim.
 <h6> W momencie tworzenia gracza powinno nas przenieść do strony pokazującej etapy tworzenia( strona mogłoby sprawdzać czy dany komputer już odwiedził strone i jeśli nie to pokazać tą instrukcję a jeśli tak to przeniosłoby od razu do tworzenia) np że 1. tworzymy gracza -> tworzymy mecz -> tworzymy raport do meczu. tak użytkownik jest rzucony na głęboką wode i musi sam odkrywać funkcjonalności strony przy okazji tworzenia gracza. Też strona mogłaby pokazywać podgląd linków z youtuba kiedy one są one podane, chociaż pierwszego z nich gdyż gdy jest dużo linków mogłoby to być bardzo nieczytelne gdyby wszystkie były pokazane.
  <h1> Task 2
+ <h2> Subtask 1
+ <h6> https://drive.google.com/drive/u/0/folders/1ML_RytDSZWL-Im8Rjy4rnmSNyvGLoiWo
