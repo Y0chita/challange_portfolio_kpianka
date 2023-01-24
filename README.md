@@ -35,5 +35,5 @@
  <h1> Task 2
  <h2> Subtask 1 & Subtask 2
  <h6> https://drive.google.com/drive/u/0/folders/1ML_RytDSZWL-Im8Rjy4rnmSNyvGLoiWo
- <h2> Subtask 4
+ <h2> Subtask 3
  <h6> Test cases are useful to check if the program meets the customer requirments and if program satisfies guidelines 
