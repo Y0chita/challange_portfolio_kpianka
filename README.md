@@ -42,6 +42,14 @@
  <h6> https://drive.google.com/drive/u/0/folders/1ML_RytDSZWL-Im8Rjy4rnmSNyvGLoiWo
  <h6> Subtask 1 is done in Errors.xlsx file, Subtask 2 is done in TestCases.xlsx file and Subtask 3 is done in Raport.docs file
  <h1> Task 4
- <h2> Subtask 1 
+ <h2> Subtask 1 & 2
  <h6> https://drive.google.com/drive/u/0/folders/1ML_RytDSZWL-Im8Rjy4rnmSNyvGLoiWo
+ <h2> Subtask 3
+ <h4> 1. What purpose does the app have?
+ <h6> This app is useful for fast course searching that are about e.g. medytation, concetration, self develompent, reduction of stress
+ <h4> 2. Who is the end user of this app?
+ <h6> End user of this app is a person who search for a ways to relax, to improve their concetration, self develop.
+ <h4> 3. Is the app User friendly?
+ <h4> 4. What would you do to improve the application?
+ <h4> 5. What are the differences between testing web app and native app?
 
