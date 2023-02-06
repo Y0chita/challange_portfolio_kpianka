@@ -50,6 +50,9 @@
  <h4> 2. Who is the end user of this app?
  <h6> End user of this app is a person who search for a ways to relax, to improve their concetration, self develop.
  <h4> 3. Is the app User friendly?
+ <h6> Yes the app is very user friendly, app looks clean and the buttons are where they should be.
  <h4> 4. What would you do to improve the application?
+ <h6> When you open a course it should take you and show you the course instantly other then coming to home tab and start from there.
  <h4> 5. What are the differences between testing web app and native app?
+ <h6> In mobile app you need to make for an account the screen size, devices funcionalities(wi-fi, bluetooth or others), the fact that app can be opend while offline.
 
