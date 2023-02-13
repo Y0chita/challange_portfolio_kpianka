@@ -59,4 +59,24 @@
  <h2> Subtask 3
  <h6> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
  <h6> (https://user-images.githubusercontent.com/122675399/218600708-c36321da-f922-455e-96e2-5f062efb1aae.png)
+ <h6> 2. Wyświetl film, który powstał w 2019 roku.
+ <h6> (https://user-images.githubusercontent.com/122675399/218601023-ddcee8ca-d2d1-4417-85c8-7089dbae91de.png)
+ <h6> 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601357-127cce28-d24f-46cb-a3b6-88c5508beb62.png)
+ <h6> 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+ <h6>(https://user-images.githubusercontent.com/122675399/218601368-017584ea-1c1f-4561-9bc5-47f0cab47c36.png)
+ <h6> 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601379-6ff1514b-2280-4765-8c6e-389c4ab78aba.png)
+ <h6> 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601392-0aa38f59-38d1-45c0-b0b6-72b4123cfeee.png)
+ <h6> 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601399-8a0354ae-b409-4978-86cd-b8ddcb891497.png)
+ <h6> 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601402-d54854b2-17f5-4c9c-bab5-b1f38eae09d6.png)
+ <h6> 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601407-a3c4808b-1575-4d8e-901f-c749ebf14f78.png)
+ <h6> 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+ <h6>(https://user-images.githubusercontent.com/122675399/218601412-c84e44e1-fca3-4daf-a2d6-73ae65a0dcb8.png)
+
+
 
