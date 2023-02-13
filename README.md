@@ -55,4 +55,8 @@
  <h6> When you open a course it should take you and show you the course instantly other then coming to home tab and start from there.
  <h4> 5. What are the differences between testing web app and native app?
  <h6> In mobile app you need to make for an account the screen size, devices funcionalities(wi-fi, bluetooth or others), the fact that app can be opend while offline.
+ <h1> Task 5
+ <h2> Subtask 3
+ <h6> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+ <h6>![2](https://user-images.githubusercontent.com/122675399/218600708-c36321da-f922-455e-96e2-5f062efb1aae.png)
 
